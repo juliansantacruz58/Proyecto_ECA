@@ -11,11 +11,3 @@ Estructura:
 - captures/   -> evidencias (pon aquí capturas)
 - docs/       -> documento final (PDF/placeholder)
 
-Cómo compilar (ejemplo con g++):
-  g++ src/kosaraju.cpp -o kosaraju
-  ./kosaraju
-
-  g++ src/kruskal.cpp -o kruskal
-  ./kruskal
-
-También se incluye main_examples.cpp con un menú simple para probar ambos ejemplos.
